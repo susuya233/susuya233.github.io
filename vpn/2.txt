@@ -1,0 +1,25 @@
+
+此节点适用于0-20M带宽使用!!!!!!!!!!!!!
+
+Windows 7 系统没有自带curl，首次使用前需要先运行 双击自解压curl.exe 自动解压 curl.exe 运行文件到当前目录
+Windows 10 用户忽略此使用说明直接运行 CF优选IP.bat 启动程序即可
+
+首次使用打开  CF优选IP.bat   输入目标值 我这里输入100M（按自己的宽带来）
+等待程序结束会出现ip 和 最大速度，我这里没有跑出来选择了一个最优的
+注意 目标值太大会出现一直寻找ip的情况 目标值太小当场结束程序。
+
+找到你的最佳ip的
+打开v2ray 导入下面的代码：（复制全哦，在v2ray内选择服务器-从剪切板批量导入服务器）
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWig+WkluiKgueCuSgyKeWcsOWdgO+8mnN1c3V5YTIzMy5naXRodWIuaW8iLA0KICAiYWRkIjogInYyamllaWRhbjIuaGVyb2t1YXBwLmNvbSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJhZDgwNjQ4Ny0yZDI2LTQ2MzYtOThiNi1hYjg1Y2M4NTIxZjciLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==
+
+导入成功后双击 境外节点地址:susuya233.github.io  在地址栏里粘贴你的最优ip （其余选项不要动） 点击确定
+
+ok现在你完成了v2ray的配置打开代理可以访问google和youtube 了~
+
+
+
+还有不懂得？ 加群：1025857113       链接：点击链接加入群聊【苏落大神技术研讨】：https://jq.qq.com/?_wv=1027&k=f36I81FF
+
+首页：https://susuya.gitHub.io
+
